@@ -3,4 +3,8 @@
 // 2- package.json file it tell you about you react app libraries or dependencies
 // 3- index.html which is the main file of react app which is inside public folder
 
+
+
 // Note : React is Single page application
+// And i know there are multiple folders when you install react app 
+// just avoid that 
